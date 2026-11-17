@@ -1,5 +1,5 @@
 
-const urlBackend = "http://localhost:3000"
+const urlBackend = "musicabackend.vercel.app"
 const listaMusicas = document.getElementById("listaMusicas")
 
 async function buscarMusicas() {
