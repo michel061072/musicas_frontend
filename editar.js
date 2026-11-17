@@ -1,5 +1,5 @@
 
-const urlBackend = "musicabackend.vercel.app"
+const urlBackend = "https://musicabackend.vercel.app";
 
 const parametros = new URLSearchParams(window.location.search)
 const id = parametros.get("id")
